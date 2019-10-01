@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1569913987,
+	"version": 1569954652,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -53,8 +53,11 @@
 		"images/sprite-sheet0.png",
 		"images/sprite2-sheet0.png",
 		"images/sprite3-sheet0.png",
+		"media/morning light.m4a",
 		"media/morning light.ogg",
+		"media/spooky dungeon.m4a",
 		"media/spooky dungeon.ogg",
+		"media/spookyambience.m4a",
 		"media/spookyambience.ogg",
 		"icon-16.png",
 		"icon-32.png",
