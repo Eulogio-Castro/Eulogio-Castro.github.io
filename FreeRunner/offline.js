@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1574141644,
+	"version": 1574232156,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -49,6 +49,9 @@
 		"images/escapekey-sheet0.png",
 		"images/circleparticles.png",
 		"images/bloodparticles.png",
+		"images/lefttouchcontrol-sheet0.png",
+		"images/righttouchcontrol-sheet0.png",
+		"images/jumptouchcontrol-sheet0.png",
 		"media/roblox-death-sound-effect.ogg",
 		"media/funeral march.ogg",
 		"media/8bitvictory.ogg",
