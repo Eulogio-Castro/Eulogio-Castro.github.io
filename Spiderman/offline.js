@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1576091187,
+	"version": 1576218159,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -68,7 +68,7 @@
 		"images/pumpkinbomb-sheet0.png",
 		"images/pumpkinparticles.png",
 		"images/goblintracker-sheet0.png",
-		"images/sprite2-sheet0.png",
+		"images/goblinicon-sheet0.png",
 		"images/brawlerleveltrigger-sheet0.png",
 		"images/gliderfailureptcl.png",
 		"images/goblinexitmarker-sheet0.png",
@@ -139,6 +139,7 @@
 		"icon-256.png",
 		"loading-logo.png",
 		"spideyeasteregg.webm",
+		"spideyeasteregg.mp4",
 		"pathfind.js"
 	]
 }
