@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1574299501,
+	"version": 1576390529,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -14,6 +14,7 @@
 		"images/player-sheet2.png",
 		"images/player-sheet3.png",
 		"images/zombie-sheet0.png",
+		"images/zombie-sheet1.png",
 		"images/feet-sheet0.png",
 		"images/feet-sheet1.png",
 		"images/muzzlefx.png",
@@ -31,6 +32,7 @@
 		"images/healthbackground-sheet0.png",
 		"images/elevator.png",
 		"images/reloadbutton-sheet0.png",
+		"images/zombieperimeter-sheet0.png",
 		"images/infernotext-sheet0.png",
 		"images/titlebackground-sheet0.png",
 		"images/titlebackground-sheet1.png",
@@ -40,6 +42,8 @@
 		"images/redscreencover-sheet0.png",
 		"images/youdied-sheet0.png",
 		"images/mainmenu-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/elevatorsprite-sheet0.png",
 		"media/ente_evil.ogg",
 		"media/tremloadingloopl.m4a",
 		"media/tremloadingloopl.ogg",

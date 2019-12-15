@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1571684363,
+	"version": 1576393142,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -95,6 +95,7 @@
 		"images/2ndtext-sheet0.png",
 		"images/3rdtext-sheet0.png",
 		"images/sprite-sheet0.png",
+		"images/pausebgnd-sheet0.png",
 		"media/guardian_beamsightlocked.m4a",
 		"media/guardian_beamsightlocked.ogg",
 		"media/guardian_beamsightlocking.m4a",
