@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1576393142,
+	"version": 1576472519,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -67,6 +67,7 @@
 		"images/peacerestoredtext-sheet0.png",
 		"images/rightarrow-sheet0.png",
 		"images/leftarrow-sheet0.png",
+		"images/uparrow-sheet0.png",
 		"images/attack-sheet0.png",
 		"images/bossexit-sheet0.png",
 		"images/bossexit-sheet1.png",
