@@ -1,0 +1,170 @@
+headerNav {
+    padding-left: 0px;
+
+
+
+}
+.landingTitle {
+    z-index: 1;
+}
+.containerVideoOverlay {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    padding-top: 60px;
+
+
+
+
+
+
+    margin-left: 25
+&
+&;
+    margin-left: 450px;
+    margin-right: 450px;
+    top: 200px;
+    vertical-align: middle;
+}
+.titleVideo {
+    position: absolute;
+    z-index: -1;
+    opacity: 1;
+    margin-top: 130px;
+}
+
+
+#myJumbo {
+    padding-bottom: 0px;
+    z-index: 1;
+    float: none;
+    clear: none;
+    visibility: visible;
+}
+#landingVIDEO {
+    display: run-in;
+    padding-top: 0px;
+    vertical-align: top;
+}
+.myJumbo {
+    border-radius: 0;
+    z-index: 1;
+    color: #FFFFFF;
+    font-family: montserrat;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    font-size: 35px;
+    padding-top: 0px;
+}
+.titleBackground {
+    position: absolute;
+    background-color: #000000;
+    display: inherit;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    width: 100%;
+    height: 100%;
+    opacity: 1;
+    border-radius: 59px;
+    z-index: -1;
+    margin-top: -38px;
+}
+.monseratH1 {
+    font-family: montserrat;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 71px;
+    text-align: center;
+    color: #27C4FF;
+    text-decoration: underline;
+}
+.monseratH2 {
+    font-family: montserrat;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    text-align: center;
+    color: #27C4FF;
+}
+.titleGoal {
+
+}
+
+.bg-blue {
+  background-color: #68B4D1 !important;
+}
+
+a.bg-blue:hover, a.bg-blue:focus,
+button.bg-blue:hover,
+button.bg-blue:focus {
+  background-color: #65A7C1 !important;
+}
+nav-pills-mine .nav-link.active,
+.nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #fff;
+}
+
+.centerMyText {
+    position: absolute;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 200px;
+    font-family: montserrat;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 38px;
+    margin-top: 500px;
+    line-height: normal;
+    text-align: left;
+}
+.addPaddingAbove {
+    padding-top: 40px;
+}
+.bgdFill {
+    background-color: #d1f3ff;
+    opacity: 1;
+}
+
+.bgdFillOG {
+    background-color: #91daf2;
+    opacity: 1;
+}
+
+.greyBgdFill {
+    background-color: #edf1f2;
+    opacity: 1
+    ;
+}
+
+.whiteText{
+  text-decoration-color: : #FFFFFF;
+}
+
+.gist-data{
+    height:800px; // Any height
+    overflow-y: visible;
+    overflow-x: visible;
+}
+
+.centerContent{
+  display:block;
+  margin-left: 40%;
+  margin-right: 40%;
+}
+
+.centerMyTextAboutMe {
+    position: absolute;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-top: 50px;
+    font-family: montserrat;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 34px;
+    line-height: normal;
+    text-align: left;
+}
