@@ -10,10 +10,10 @@ const Hero = (props) => (
       <LeftSection>
         <SectionTitle main center>
           Eulogio Castro <br />
-          Software Developer
+          _Software Developer_
         </SectionTitle>
         <SectionText>
-        Motivated Computer Science graduate from California State University - Dominguez Hills with academic and personal experience in Software Development in multiple disciplines. Seeking aa position to grow as a software developer alongside a great team.</SectionText>
+        Motivated Computer Science graduate from California State University - Dominguez Hills with academic and personal experience in Software Development in multiple disciplines. Seeking a position to grow as a software developer alongside a great team.</SectionText>
       </LeftSection>
     </Section>
   </>
