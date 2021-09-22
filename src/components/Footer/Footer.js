@@ -23,7 +23,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Growing one Project at a time.</Slogan>
+          <Slogan>Growing one line at a time.</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://github.com/Eulogio-Castro" target="_blank">
