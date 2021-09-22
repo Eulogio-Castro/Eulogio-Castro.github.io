@@ -34,10 +34,6 @@ const Projects = () => (
         );
       })}
 
-      <BlogCard>
-      <script src="https://gist.github.com/Eulogio-Castro/1e05ce6bc37406bd180a6fddb052e45e.js"></script>
-      </BlogCard>
-
     </GridContainer>
   </Section>
 );
