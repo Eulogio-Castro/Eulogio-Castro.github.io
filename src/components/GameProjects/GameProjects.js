@@ -1,7 +1,7 @@
 import React from 'react';
 import Link from 'next/dist/client/link';
 import { BlogCard, CardInfo, ExternalLinks, GridContainer, HeaderThree, Hr, Tag, TagList, TitleContent, UtilityList, Img } from './GameProjectsStyles';
-import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalComponents';
+import { Section, SectionDivider, SectionTitle, SectionText } from '../../styles/GlobalComponents';
 import { gameprojects } from '../../constants/constants';
 
 const GameProjects = () => (
