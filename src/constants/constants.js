@@ -55,7 +55,7 @@ export const gameprojects = [
     source: 'https://google.com',
     visit: 'https://zherooftime.itch.io/dungeons-of-hyrule',
     id: 1,
-  },
+  },/*
   {
     title: 'Inferno',
     description:"Inferno is a Top Down shooting game in which you must collect keys each level to advance to the next. There are more and more zombies every level, and each level is procedurally generated at runtime.",
@@ -64,7 +64,7 @@ export const gameprojects = [
     source: 'https://google.com',
     visit: 'https://google.com',
     id: 1,
-  },
+  },*/
 ];
 
 export const TimeLineData = [
