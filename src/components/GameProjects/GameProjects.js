@@ -8,6 +8,9 @@ const GameProjects = () => (
   <Section nopadding id="gameprojects">
     <SectionDivider />
     <SectionTitle main>Game Projects</SectionTitle>
+    <SectionText>
+      These projects were created as part of game dev courses at CSUDH, with a dev time of 3 weeks for the 2D projects, and 6 weeks for the 3D projects
+    </SectionText>
     <GridContainer>
       {gameprojects.map((p, i) => {
         return (
