@@ -21,7 +21,7 @@ export const projects = [
 
 export const gameprojects = [
   {
-    title: 'HELLRAZER (FPS in Unity)',
+    title: 'HELLRAZER',
     description: "HellRazer is a First Person Shooter in which you must annihilate all evil before you. Stick to your guns and fight your way out. This game is Desktop only.",
       image: '/images/gameprojects/HellRazerSplash.png',
       tags: ['Unity', 'First-Person Shooter'],
