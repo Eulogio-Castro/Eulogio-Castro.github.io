@@ -13,7 +13,7 @@ const Hero = (props) => (
           _Software Developer_
         </SectionTitle>
         <SectionText>
-        Motivated Software Developer with Computer Science B.S. from California State University - Dominguez Hills with experience in Software Development in various disciplines. Seeking a position to grow as a software developer alongside a great team.</SectionText>
+        Motivated Software Developer experienced in Java, C#, ERP Systems, and Front-End Development frameworks. I continuously grow as a software developer by keeping current on new technologies and working my own projects.</SectionText>
       </LeftSection>
     </Section>
   </>
