@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\public\\images",
+    "\\public\\images\\gameprojects",
+    "\\public\\images\\projects",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\Projects",
+    "\\src\\constants"
+  ],
+  "SelectedNode": "\\src\\constants\\constants.js",
+  "PreviewInSolutionExplorer": false
+}
