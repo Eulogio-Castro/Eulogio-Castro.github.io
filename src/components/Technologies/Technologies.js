@@ -1,8 +1,8 @@
 import React from 'react';
 import { DiReact, DiVisualstudio } from 'react-icons/di';
-import { SiJava, SiDotnet, SiCsharp, SiMicrosoftsqlserver, SiMaterialUi, SiJavascript } from 'react-icons/si';
+import { SiDotnet, SiCsharp, SiMicrosoftsqlserver, SiMui, SiJavascript } from 'react-icons/si';
 import { AiFillGithub } from 'react-icons/ai';
-import { BiLogoGit } from 'react-icons/bi';
+import { BiLogoGit, BiLogoJava } from 'react-icons/bi';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -43,7 +43,7 @@ const Technologies = () =>  (
       </ListItem>
       <ListItem>
         <picture>
-          <SiMaterialUi size="3rem" />
+          <SiMui size="3rem" />
         </picture>
 
         <ListContainer>
@@ -56,7 +56,7 @@ const Technologies = () =>  (
       </ListItem>
       <ListItem>
         <picture>
-          <SiJava size="3rem" />
+          <BiLogoJava size="3rem" />
           <SiCsharp size="3rem" />
         </picture>
         <ListContainer>
