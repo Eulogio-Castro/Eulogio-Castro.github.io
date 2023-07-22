@@ -5,7 +5,7 @@ export const projects = [
         image: '/images/projects/RazorPizzeria.png',
         tags: ['.NET', 'Razor Pages', 'Entity Framework'],
         source: 'https://github.com/Eulogio-Castro/RazorPizzeria',
-        visit: 'https://razorpizzeria20230707012719.azurewebsites.net/Pizza',
+        visit: 'https://razorpizzeria20230707012719.azurewebsites.net',
         id: 0,
     },
 
