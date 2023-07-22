@@ -1,6 +1,6 @@
 import React from 'react';
 import { DiReact, DiVisualstudio } from 'react-icons/di';
-import { SiJava, SiDotnet,SiCsharp, SiMicrosoftsqlserver, SiMaterialUi, SiJavascript } from 'react-icons/si';
+import { SiJava, SiDotnet, SiCsharp, SiMicrosoftsqlserver, SiMaterialUi, SiJavascript } from 'react-icons/si';
 import { AiFillGithub } from 'react-icons/ai';
 import { BiLogoGit } from 'react-icons/bi';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
