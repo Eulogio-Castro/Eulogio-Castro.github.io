@@ -1,7 +1,7 @@
 export const projects = [
     {
         title: 'Razor Pizzeria',
-        description: "Web ppp using ASP.NET 6.0 and Entity Framework, as well as integrating a remote PostgreSQL DB and using an Auth Provider (Google).",
+        description: "Web app using ASP.NET 6.0 and Entity Framework, connected to a PostgreSQL DB and using an Auth Provider (Google).",
         image: '/images/projects/RazorPizzeria.png',
         tags: ['.NET', 'Razor Pages', 'Entity Framework'],
         source: 'https://github.com/Eulogio-Castro/RazorPizzeria',
