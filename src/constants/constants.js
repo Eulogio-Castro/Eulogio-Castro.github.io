@@ -1,7 +1,7 @@
 export const projects = [
     {
         title: 'Razor Pizzeria',
-        description: "Web app using ASP.NET 6.0 and Entity Framework, connected to a PostgreSQL DB and using an Auth Provider (Google).",
+        description: "Web app built on .NET 6.0 and Entity Framework, connected to a PostgreSQL DB and using an Auth Provider (Google).",
         image: '/images/projects/RazorPizzeria.png',
         tags: ['.NET', 'Razor Pages', 'Entity Framework'],
         source: 'https://github.com/Eulogio-Castro/RazorPizzeria',
@@ -9,6 +9,15 @@ export const projects = [
         id: 0,
     },
 
+    {
+        title: 'Run It Up!',
+        description: "Web app built on .NET with React, consuming APIs to get information in the team's info",
+        image: '/images/projects/My100TApp.png',
+        tags: ['.NET', 'React', 'YouTube Data API'],
+        source: 'https://github.com/Eulogio-Castro/My100TApp',
+        visit: 'https://my100tapp-ecastro.azurewebsites.net/',
+        id: 1,
+    },
 
     {
         title: 'Sticky Notes',
@@ -17,8 +26,9 @@ export const projects = [
         tags: ['Firebase', 'React', 'Material UI', 'styled-components'],
         source: 'https://github.com/Eulogio-Castro/stickynotes',
         visit: 'https://stickynotes-silk.vercel.app/',
-        id: 1,
+        id: 2,
     },
+
     {
         title: 'Movie-Search',
         description: "Movie Search web-app that allows users to search The Movie Database by leveraging React hooks and API calls to provide results. Users may also favorite movies for quick reference with this data saved locally.",
@@ -26,7 +36,7 @@ export const projects = [
         tags: ['React', 'React-Bootstrap'],
         source: 'https://github.com/Eulogio-Castro/movie-app',
         visit: 'https://movie-app-cyan.vercel.app/',
-        id: 2,
+        id: 3,
     },
 ];
 
