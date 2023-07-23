@@ -1,13 +1,4 @@
 export const projects = [
-    {
-        title: 'Razor Pizzeria',
-        description: "Web app built on .NET 6.0 and Entity Framework, connected to a PostgreSQL DB and using an Auth Provider (Google).",
-        image: '/images/projects/RazorPizzeria.png',
-        tags: ['.NET', 'Razor Pages', 'Entity Framework'],
-        source: 'https://github.com/Eulogio-Castro/RazorPizzeria',
-        visit: 'https://razorpizzeria20230707012719.azurewebsites.net',
-        id: 0,
-    },
 
     {
         title: 'Run It Up!',
@@ -16,6 +7,16 @@ export const projects = [
         tags: ['.NET', 'React', 'YouTube Data API'],
         source: 'https://github.com/Eulogio-Castro/My100TApp',
         visit: 'https://my100tapp-ecastro.azurewebsites.net/',
+        id: 0,
+    },
+
+    {
+        title: 'Razor Pizzeria',
+        description: "Web app built on .NET 6.0 and Entity Framework, connected to a PostgreSQL DB and using an Auth Provider (Google).",
+        image: '/images/projects/RazorPizzeria.png',
+        tags: ['.NET', 'Razor Pages', 'Entity Framework'],
+        source: 'https://github.com/Eulogio-Castro/RazorPizzeria',
+        visit: 'https://razorpizzeria20230707012719.azurewebsites.net',
         id: 1,
     },
 
