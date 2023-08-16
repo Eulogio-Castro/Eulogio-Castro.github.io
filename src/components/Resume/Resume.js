@@ -9,7 +9,7 @@ const Resume = () => {
       <SectionTitle>Resume</SectionTitle>
 
       <SectionText>  
-      <iframe src="https://onedrive.live.com/embed?cid=DC7E9D60B805AA82&amp;resid=DC7E9D60B805AA82%21389326&amp;authkey=AH7yWUu2rO-59uA&amp;em=2" 
+      <iframe src="https://onedrive.live.com/embed?resid=DC7E9D60B805AA82%21569060&amp;authkey=!ANDodAtbfv4dF1E&amp;em=2" 
         width="120%" 
         height="1200px" 
         frameborder="0">This is an embedded 
